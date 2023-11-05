@@ -30,8 +30,6 @@ Estudiante de Computer Science ad portas de egresar, actualmente enfocandome en 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
----
-
 
 <!--
 **SnakeJuice/SnakeJuice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
