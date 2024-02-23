@@ -1,4 +1,4 @@
-# 🏄‍♂️ Cristian Anjari
+# Cristian Anjari
 
 **`Artesano Digital`**
 
