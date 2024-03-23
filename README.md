@@ -2,7 +2,7 @@
 
 **`Artesano Digital`**
 
-Estudiante de Computer Science ad portas de egresar. Actualmente terminando mi tesis y enfocandome en el desarrollo web fullstack.
+Estudiante de Computer Science ad portas de egresar. Actualmente terminando mi tesis y enfocandome en aprender nuevas tecnologías y el desarrollo web fullstack.
 
 ---
 
