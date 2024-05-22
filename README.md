@@ -41,7 +41,9 @@ Egresado de Computer Science de la USACH. Actualmente enfocandome en aprender nu
 <br>
 
 #### 🛢️ DB
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
+<img align="left" alt="Mongoose" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" />
+
 
 <!--
 **SnakeJuice/SnakeJuice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
