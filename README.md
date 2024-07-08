@@ -2,7 +2,7 @@
 
 **`Artesano Digital`**
 
-Egresado de Computer Science de la USACH. Actualmente enfocandome en aprender nuevas tecnologías y el desarrollo web fullstack.
+Titulado de Computer Science Analyst de la USACH. Actualmente enfocandome en aprender nuevas tecnologías y el desarrollo web fullstack.
 
 ---
 
